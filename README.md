@@ -10,7 +10,7 @@ https://docs.google.com/document/d/1LhXRXFeqI5DIX6zRIe4RTMPtjMcVYza4sBVQfF5PQlM/
 4. Just upload `cryptobot.zip` to your bot.
 5. This should be able to bypass the instructions list
 
-*WARNING* - Please remember to update the ngrok tunnel url in your bot.
+**WARNING** - Please remember to update the ngrok tunnel url in your bot.
 
 
 ## TO run this backend
